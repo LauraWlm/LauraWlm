@@ -20,7 +20,7 @@ Junior Developer @BeCode.org
 ---------------------------------------------------
 
 * 🌍  I'm based in Belgium
-* ✉️  You can contact me at [laurawilhelmi.pro@gmail.com@gmail.com](mailto:laurawilhelmi.pro@gmail.com)
+* ✉️  You can contact me at [laurawilhelmi.pro@gmail.com](mailto:laurawilhelmi.pro@gmail.com)
 
 ### Skills
 
