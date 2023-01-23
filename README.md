@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Laura Wilhelmi
 =========================================================================================================================================
 
-Junior Developer @BeCode.org 
----------------------------------------------------
-
-* 🌍  I'm based in Belgium
-* ✉️  You can contact me at [laurawilhelmi.pro@gmail.com](mailto:laurawilhelmi.pro@gmail.com)
+- 🌱 I’m currently learning 'Junior Developer' @BeCode.org 
+- 🌍  I'm based in Belgium
+- ✉️  You can contact me at [laurawilhelmi.pro@gmail.com](mailto:laurawilhelmi.pro@gmail.com)
 
 ### Skills
 
